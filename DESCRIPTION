@@ -6,7 +6,8 @@ Authors@R: c(person(c("Rafael", "A."), "Irizarry", email = "rafael_irizarry@dfci
                   role = c("aut", "cre")),
              person(c("Michael", "I."), "Love", role = "aut"))
 Depends: R (>= 3.1.2),
-Imports: RColorBrewer, BiocManager
+Imports: RColorBrewer
+Suggests: BiocManager
 Description: A series of shortcuts for routine tasks originally developed by
     Rafael A. Irizarry to facilitate data exploration.
 License: Artistic-2.0
